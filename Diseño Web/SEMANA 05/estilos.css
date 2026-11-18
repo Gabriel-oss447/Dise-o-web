@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    background-color: #784747;
+    color: #d1c6c6;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+p{
+    background-color: #c27373;
+    color: #d1c6c6;
+    margin-bottom: 10px;
+}
+img{
+    width: 200px;
+    height: auto;
+}
+
+.parrafoDos{
+    background-color: #db9239;
+    color: #d1c6c6;
+    margin-bottom: 10px;
+}
+
+#encabezado{
+    background-color: #784747;
+}
